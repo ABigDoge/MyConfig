@@ -1,0 +1,5 @@
+AutoProxy:
+https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+
+Proxy:
+Socks5: 127.0.0.1 7891
